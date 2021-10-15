@@ -1,0 +1,1 @@
+This is a lesson project for the Odin Project. This project so far is utilizing HTML tags such as the standard boilerplate, headings, ordered and unordered lists, anchor tags, and images.
